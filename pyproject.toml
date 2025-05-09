@@ -1,0 +1,9 @@
+[project]
+name = "wargo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "garaga==0.18.0",
+]
