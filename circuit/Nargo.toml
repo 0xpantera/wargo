@@ -1,6 +1,8 @@
 [package]
 name = "circuit"
 type = "bin"
-authors = [""]
+authors = ["Franco 0xpantera@proton.me"]
+compiler_version = ">=1.0.0"
+
 
 [dependencies]
